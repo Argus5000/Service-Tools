@@ -1,2 +1,2 @@
-![](./images/logo.svg "Service Tools")
+![](./servicetools.svg "Service Tools")
 # __`Service Tools`__ 
