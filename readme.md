@@ -1,4 +1,4 @@
-<p><img src="./servicetools.svg" alt="Service Tools" align="left" width="48px" height="48px"> <h1 align="left">&nbsp;Service Tools</h1></p>
+<p><img src="./servicetools.svg" alt="Service Tools" align="left" width="48px" height="48px"> <h1 align="left" vertical-align="center" >&nbsp;Service Tools</h1></p>
 
 <h3> Инструменты для автоматизации и делегирования полномочий для выполнения рутинных административных задач</h3><br>
 
