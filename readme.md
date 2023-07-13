@@ -1,5 +1,5 @@
 <div style="display: flex; flex-wrap: nowrap; justify-content: flex-start; align-items: center">
-  <div style="display: flex; flex-wrap: nowrap; justify-content: flex-start;"><img src="D:/Projects/Published Web Projects/ReportingServices/images/servicetools.svg" alt="Service Tools" width="48px" height="48px"></div>
+  <div style="display: flex; flex-wrap: nowrap; justify-content: flex-start;"><img src="./servicetools.svg" alt="Service Tools" width="48px" height="48px"></div>
   <div style="display: flex; flex-wrap: nowrap; justify-content: flex-start;"><h1>&nbsp;Service Tools</h1></div>
 </div>
 
