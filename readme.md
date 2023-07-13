@@ -1,4 +1,4 @@
-<p><img src="./servicetools.svg" alt="Service Tools" align="left" width="48px" height="48px"> <h1 align="left" vertical-align="center" >&nbsp;Service Tools</h1></p>
+<img src="./servicetools.svg" alt="Service Tools" align="left" vertical-align="center" width="48px" height="48px"> <h1 align="left" vertical-align="center" >&nbsp;Service Tools</h1>
 
 <table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
