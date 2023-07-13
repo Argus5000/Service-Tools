@@ -1,6 +1,5 @@
 <div style="display: flex; flex-wrap: nowrap; justify-content: flex-start; align-items: center">
-  <div style="display: flex; flex-wrap: nowrap; justify-content: flex-start;"><img src="./servicetools.svg" alt="Service Tools" width="48px" height="48px"></div>
-  <div style="display: flex; flex-wrap: nowrap; justify-content: flex-start;"><h1>&nbsp;Service Tools</h1></div>
+  <div style="display: flex; flex-wrap: nowrap; justify-content: flex-start;"><img src="./servicetools.svg" alt="Service Tools" width="48px" height="48px"> <h1>&nbsp;Service Tools</h1></div>
 </div>
 
 <h3> Инструменты для автоматизации и делегирования полномочий для выполнения рутинных административных задач</h3><br>
