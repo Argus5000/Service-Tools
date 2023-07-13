@@ -1,9 +1,7 @@
-<table  style="border: none; padding: 10px; margin: auto">
-  <tr>
-    <td vertical-align="middle"> <img src="./servicetools.svg" alt="Service Tools" width="48px" height="48px"> </td>
-    <td vertical-align="middle"> <h1 align="left">Service Tools</h1> </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: nowrap; justify-content: flex-start; align-items: center">
+  <div><img src="./servicetools.svg" alt="Service Tools" width="64px" height="64px"></div>
+  <div><h1>&nbsp;Service Tools</h1></div>
+</div>
 
 <h3> Инструменты для автоматизации и делегирования полномочий для выполнения рутинных административных задач</h3><br>
 
